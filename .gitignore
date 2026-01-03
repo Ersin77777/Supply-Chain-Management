@@ -1,0 +1,13 @@
+# Data files
+data/
+*.csv
+
+# Model files
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
