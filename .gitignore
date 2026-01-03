@@ -1,8 +1,13 @@
-# Data files
-data/
+# Data
+data/raw/
 *.csv
 
-# Model files
+# Outputs
+outputs/preprocessed/
+outputs/models/
+outputs/figures/
+
+# Models
 *.pkl
 
 # Jupyter
@@ -11,3 +16,7 @@ data/
 # Python cache
 __pycache__/
 *.pyc
+
+# OS
+.DS_Store
+Thumbs.db
