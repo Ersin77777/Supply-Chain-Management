@@ -1,3 +1,13 @@
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
 # Data
 data/raw/
 *.csv
@@ -12,10 +22,6 @@ outputs/figures/
 
 # Jupyter
 .ipynb_checkpoints/
-
-# Python cache
-__pycache__/
-*.pyc
 
 # OS
 .DS_Store
