@@ -87,7 +87,7 @@ supply-chain-management/
 ```
 
 
-## Tech Stack
+## 🛠️ Tech Stack
 - Python
 - Pandas / NumPy
 - Scikit-learn
@@ -96,7 +96,7 @@ supply-chain-management/
 - Matplotlib / Seaborn
 - Google Colab
 
-## Data
+## 🗄️ Data
 The original datasets are confidential and not included in this repository.
 
 ## Author
